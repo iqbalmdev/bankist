@@ -25,7 +25,3 @@ To access the application, use the following credentials:
 
 ## Contributors
 - Mohammed Iqbal
-- [Your Name or Username]
-
-## Support
-For any inquiries or issues, contact [Your Email Address].
