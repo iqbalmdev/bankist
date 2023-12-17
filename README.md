@@ -1,4 +1,4 @@
-# AJS Project README
+# JS Project README
 
 ## Overview
 This project is a simple front-end application created using JavaScript. It focuses on implementing arrays, objects, time/date formatting, and user authentication.
